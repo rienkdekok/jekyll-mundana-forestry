@@ -21,7 +21,7 @@ This project is pre-configured for [Forestry](https://forestry.io) a Git-based C
 
 Any changes you make in Forestry is commited back to the repository and automatically deployed.
 
-## Local development
+## Local development.
 
 ```bash
 # clone your imported repository
